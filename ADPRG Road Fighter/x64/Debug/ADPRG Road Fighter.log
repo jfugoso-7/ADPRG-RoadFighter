@@ -1,0 +1,601 @@
+﻿  BGObject.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'BGObject.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BGObject.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BGObject.cpp(28,38): error C2819: type 'sf::Texture' does not have an overloaded member 'operator ->'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\Graphics\Texture.hpp(55,25):
+      see declaration of 'sf::Texture'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BGObject.cpp(28,38):
+      did you intend to use '.' instead?
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BGObject.cpp(28,40): error C2232: '->sf::Texture::getSize': left operand has 'class' type, use '.'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BGObject.cpp(28,10): error C2660: 'sf::Transformable::setOrigin': function does not take 2 arguments
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\Graphics\Transformable.hpp(115,10):
+      see declaration of 'sf::Transformable::setOrigin'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BGObject.cpp(28,10):
+      while trying to match the argument list '()'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BGObject.cpp(30,47): error C2819: type 'sf::Texture' does not have an overloaded member 'operator ->'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\Graphics\Texture.hpp(55,25):
+      see declaration of 'sf::Texture'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BGObject.cpp(30,47):
+      did you intend to use '.' instead?
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BGObject.cpp(30,49): error C2232: '->sf::Texture::getSize': left operand has 'class' type, use '.'
+  BonusCar.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'BonusCar.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BonusCar.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(29,36): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(29,36): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(29,36): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(29,36): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(29,36): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(29,32): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(29,32): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(29,32): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(29,32): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(29,32): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(35,53): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(35,53): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(35,53): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(35,53): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(35,53): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(35,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(35,53): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(35,53): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(35,53): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(35,53): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(73,54): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(73,54): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(73,54): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(73,54): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(73,54): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(73,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(73,54): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(73,54): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(73,54): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\BonusCar.cpp(73,54): warning C4244:         ]
+  Bounds.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Bounds.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  EnemyBehavior_B.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'EnemyBehavior_B.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_B.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_B.cpp(80,79): error C2398: Element '1': conversion from 'double' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_B.cpp(80,79): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_B.cpp(80,79): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_B.cpp(80,79): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_B.cpp(80,79): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_B.cpp(87,78): error C2398: Element '1': conversion from 'double' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_B.cpp(87,78): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_B.cpp(87,78): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_B.cpp(87,78): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_B.cpp(87,78): error C2398:         ]
+  EnemyBehavior_C.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'EnemyBehavior_C.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_C.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_C.cpp(89,75): error C2398: Element '1': conversion from 'double' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_C.cpp(89,75): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_C.cpp(89,75): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_C.cpp(89,75): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_C.cpp(89,75): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_C.cpp(96,74): error C2398: Element '1': conversion from 'double' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_C.cpp(96,74): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_C.cpp(96,74): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_C.cpp(96,74): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyBehavior_C.cpp(96,74): error C2398:         ]
+  EnemyCar_A.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'EnemyCar_A.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'EnemyCar_A.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(25,37): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(25,37): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(25,37): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(25,37): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(25,37): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(25,33): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(25,33): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(25,33): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(25,33): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(25,33): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(33,54): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(33,54): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(33,54): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(33,54): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(33,54): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(33,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(33,54): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(33,54): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(33,54): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(33,54): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(78,54): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(78,54): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(78,54): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(78,54): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(78,54): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(78,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(78,54): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(78,54): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(78,54): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_A.cpp(78,54): warning C4244:         ]
+  EnemyCar_B.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'EnemyCar_B.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'EnemyCar_B.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(26,37): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(26,37): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(26,37): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(26,37): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(26,37): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(26,33): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(26,33): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(26,33): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(26,33): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(26,33): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(30,53): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(30,53): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(30,53): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(30,53): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(30,53): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(30,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(30,53): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(30,53): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(30,53): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(30,53): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(66,54): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(66,54): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(66,54): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(66,54): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(66,54): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(66,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(66,54): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(66,54): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(66,54): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_B.cpp(66,54): warning C4244:         ]
+  EnemyCar_C.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'EnemyCar_C.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'EnemyCar_C.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(22,37): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(22,37): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(22,37): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(22,37): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(22,37): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(22,33): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(22,33): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(22,33): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(22,33): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(22,33): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(27,53): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(27,53): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(27,53): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(27,53): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(27,53): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(27,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(27,53): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(27,53): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(27,53): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(27,53): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(67,54): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(67,54): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(67,54): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(67,54): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(67,54): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(67,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(67,54): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(67,54): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(67,54): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyCar_C.cpp(67,54): warning C4244:         ]
+  EnemySwarmHandler_A.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'EnemySwarmHandler_A.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  EnemyTruck.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'EnemyTruck.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'EnemyTruck.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(28,37): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(28,37): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(28,37): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(28,37): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(28,37): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(28,33): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(28,33): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(28,33): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(28,33): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(28,33): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(33,53): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(33,53): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(33,53): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(33,53): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(33,53): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(33,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(33,53): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(33,53): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(33,53): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(33,53): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(70,54): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(70,54): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(70,54): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(70,54): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(70,54): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(70,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(70,54): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(70,54): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(70,54): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\EnemyTruck.cpp(70,54): warning C4244:         ]
+  Entity.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Entity.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Entity.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\Entity.cpp(4,18): error C2512: 'sf::Sprite': no appropriate default constructor available
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\Graphics\Sprite.hpp(50,25):
+      see declaration of 'sf::Sprite'
+  
+  FontManager.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\FontManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'FontManager.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'FontManager.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\FontManager.cpp(24,20): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  Game.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Game.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\FontManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\Window\Event.inl(45,19): error C2338: static_assert failed: 'TEventSubtype must be a subtype of sf::Event'
+  (compiling source file 'Game.cpp')
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\Window\Event.inl(45,19):
+      the template instantiation context (the oldest one first) is
+          C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\Game.cpp(109,60):
+          see reference to function template instantiation 'sf::Event::Event<std::optional<sf::Event>>(const TEventSubtype &)' being compiled
+          with
+          [
+              TEventSubtype=std::optional<sf::Event>
+          ]
+  
+  GameObjectManager.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'GameObjectManager.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\GameObjectManager.cpp(30,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  GenericInputController.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'GenericInputController.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\GenericInputController.cpp(4,1): error C2512: 'sf::Event': no appropriate default constructor available
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\Window\Event.hpp(46,7):
+      see declaration of 'sf::Event'
+  
+  HUDScreen.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'HUDScreen.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'HUDScreen.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(40,30): error C2512: 'sf::Sprite::Sprite': no appropriate default constructor available
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(40,30):
+      while trying to match the argument list '()'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(48,33): error C2512: 'sf::Sprite::Sprite': no appropriate default constructor available
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(48,33):
+      while trying to match the argument list '()'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(52,69): error C2819: type 'sf::Texture' does not have an overloaded member 'operator ->'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\Graphics\Texture.hpp(55,25):
+      see declaration of 'sf::Texture'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(52,69):
+      did you intend to use '.' instead?
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(52,71): error C2232: '->sf::Texture::getSize': left operand has 'class' type, use '.'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): error C2398: Element '2': conversion from 'T' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): error C2398:             T=unsigned int
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): error C2398:         and
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): warning C4244:             T=unsigned int
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): warning C4244:         and
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,79): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): error C2398: Element '1': conversion from 'T' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): error C2398:             T=unsigned int
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): error C2398:         and
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): warning C4244:             T=unsigned int
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): warning C4244:         and
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(54,52): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(55,46): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(55,46): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(55,46): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(55,46): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(55,46): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(55,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(55,46): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(55,46): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(55,46): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(55,46): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(59,36): error C2512: 'sf::Sprite::Sprite': no appropriate default constructor available
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(59,36):
+      while trying to match the argument list '()'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(62,36): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(62,36): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(62,36): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(62,36): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(62,36): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(62,32): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(62,32): warning C4305:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(62,32): warning C4305:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(62,32): warning C4305:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(62,32): warning C4305:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(64,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(64,57): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(64,57): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(64,57): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\HUDScreen.cpp(64,57): warning C4244:         ]
+  PlayerMovement.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'PlayerMovement.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'PlayerMovement.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(161,44): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(161,44): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(161,44): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(161,44): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(161,44): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(161,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(161,44): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(161,44): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(161,44): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(161,44): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(165,44): error C2398: Element '1': conversion from 'int' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(165,44): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(165,44): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(165,44): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(165,44): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(165,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(165,44): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(165,44): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(165,44): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(165,44): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\PlayerMovement.cpp(219,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  QuitScreen.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'QuitScreen.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'QuitScreen.cpp')
+  
+  Renderer.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Renderer.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\Renderer.cpp(43,3): error C2360: initialization of 'renderer' is skipped by 'case' label
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\Renderer.cpp(39,15):
+      see declaration of 'renderer'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\Renderer.cpp(45,3): error C2361: initialization of 'renderer' is skipped by 'default' label
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\Renderer.cpp(39,15):
+      see declaration of 'renderer'
+  
+  RendererFactory.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'RendererFactory.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  Generating Code...
+  Compiling...
+  UIButton.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'UIButton.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'UIButton.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(25,47): error C2819: type 'sf::Texture' does not have an overloaded member 'operator ->'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\Graphics\Texture.hpp(55,25):
+      see declaration of 'sf::Texture'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(25,47):
+      did you intend to use '.' instead?
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(25,49): error C2232: '->sf::Texture::getSize': left operand has 'class' type, use '.'
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): error C2398: Element '2': conversion from 'T' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): error C2398:             T=unsigned int
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): error C2398:         and
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): warning C4244:             T=unsigned int
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): warning C4244:         and
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,55): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): error C2398: Element '1': conversion from 'T' to 'T' requires a narrowing conversion
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): error C2398:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): error C2398:             T=unsigned int
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): error C2398:         and
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): error C2398:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): error C2398:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): error C2398:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): warning C4244:         with
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): warning C4244:             T=unsigned int
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): warning C4244:         ]
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): warning C4244:         and
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): warning C4244:         [
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): warning C4244:             T=float
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIButton.cpp(26,36): warning C4244:         ]
+  UIButtonInputController.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'UIButtonInputController.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  UIText.cpp
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'UIText.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\FontManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'UIText.cpp')
+  
+C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIText.cpp(7,27): error C2512: 'sf::Text::Text': no appropriate default constructor available
+      C:\Users\User\Downloads\ADPRG Road Fighter\ADPRG Road Fighter\ADPRG Road Fighter\UIText.cpp(7,27):
+      while trying to match the argument list '()'
+  
+  Generating Code...
